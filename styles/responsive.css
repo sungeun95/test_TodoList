@@ -1,4 +1,9 @@
 
 @media screen and (max-width:767px){ 
-
+    main{background: url(../image/bg2.jpg) center/cover;}
+    main h1{border-bottom: 5px solid #F9AECC; font-size: 1.438rem;}
+    main .input_box #check_btn{
+        background-color: #F9AECC;
+    }
+    main .input_box #check_btn:hover{background-color: #9EC9FE;}
 }
